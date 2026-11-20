@@ -1,2 +1,5 @@
-# TesseraFlow
-Fast generative reconstruction for dynamic MRI and CT using a complex-valued pixel-space flow prior and randomized grid-shift sampling. Up to 367× faster than existing video priors.
+# TesseraFlow: Scalable Video Diffusion for Dynamic Medical Imaging Inverse Problems
+
+**Code coming soon.**
+
+🌐 [Project Page](https://attakuan.github.io/tesseraflow)
